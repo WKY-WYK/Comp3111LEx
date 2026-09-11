@@ -1,1 +1,1 @@
-![img.png](img.png)<img src="C:\Users\wukwa\Desktop\111.png"
+![](C:\Users\wukwa\Desktop\111.png)
